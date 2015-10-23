@@ -11,7 +11,7 @@ POSTGRES_PASSWORD=admin;
 APP_DB_NAME=main_db
 
 # Edit the following to change the version of PostgreSQL that is installed
-PG_VERSION=9.4
+PG_VERSION=9.1
 
 ###########################################################
 # Changes below this line are probably not necessary
